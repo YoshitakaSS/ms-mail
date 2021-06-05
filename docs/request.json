@@ -1,0 +1,30 @@
+{
+    "to": {
+        "email": "to@gmail.com",
+        "name": "宛名"
+    },
+    "cc": [
+        {
+            "email": "cc@gmail.com",
+            "name": "宛名"
+        }
+    ],
+    "bcc": [
+        {
+            "email": "bcc@gmail.com",
+            "name": "宛名"
+        }
+    ],
+    "from": {
+        "email": "from@gmail.com",
+        "name": "送信元"
+    },
+    "replyTo": {
+        "email": "reply_to@gmail.com",
+        "name": "返信先"
+    },
+    "content": {
+        "subject": "メールタイトルだよ",
+        "text": "メール本文だよ"
+    }
+}
